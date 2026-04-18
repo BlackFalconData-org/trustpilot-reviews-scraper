@@ -8,6 +8,7 @@ Extract structured data from [trustpilot.com](https://trustpilot.com) — trustp
 
 ## Key features
 
+
 **Multiple input modes** — reviews (default) or search companies or browse category or company info only. Switch modes without re-scraping.
 
 **Incremental mode** — Only get new or changed listings since your last run. Content hash per listing — no duplicates, no re-processing.
@@ -27,6 +28,7 @@ Extract structured data from [trustpilot.com](https://trustpilot.com) — trustp
 ---
 
 ## Use cases
+
 
 **Data pipeline automation**
 Integrate with your ETL pipeline to collect structured listings from trustpilot.com on a schedule. Export to CSV, JSON, or directly to your database. Use compact mode to control output size.
@@ -200,6 +202,7 @@ No. Just sign up for Apify, paste your input, and click Start. No credit card re
 ---
 
 ## Related products by Black Falcon Data
+
 
 - [StepStone Scraper](https://apify.com/blackfalcondata/stepstone-scraper?fpr=1h3gvi) — Job listings from 18 European portals
 - [Indeed Job Scraper](https://apify.com/blackfalcondata/indeed-job-scraper?fpr=1h3gvi) — Indeed job listings with salary data
